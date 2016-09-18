@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Mvc</string>
+    <string name="app_name">Samples</string>
+    <string name="app_name_mvc">Mvc</string>
+    <string name="app_name_mvp">Mvp</string>
 </resources>
